@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vincent.orinel@gmail.com
+	name = Vincent Orinel
